@@ -6,7 +6,7 @@ Your code goes below.
 let x = 3
 let y = 10 
 let z = 5
-let name = "Kyle"
+let name = "Adamus"
 let greeting = "HEY"
 
 
@@ -21,7 +21,7 @@ function  modYBy(num) {
 function  opposite(num) {
   z = -num
 }
-
+let lastName = "Finnell"
 function  makeFullName(lastName) {
   name = name + " " + lastName
 }
